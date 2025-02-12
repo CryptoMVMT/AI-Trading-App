@@ -4,7 +4,7 @@ import requests
 import openai
 
 # Imposta la tua API Key di OpenAI
-openai.api_key = "proj_DLPZuj4NRSECTZJDEtHesRUV"
+openai.api_key = "proj_mP4XWxOj6eiKiZDSuMCc0NED"
 
 # Funzione per comunicare con Aurius
 def chat_with_aurius(prompt):
